@@ -1,0 +1,25 @@
+{
+  "programs": [
+    {
+      "name": "Delicate/Silk",
+      "keywords": ["silk", "delicate", "lingerie", "viscose"],
+      "temperature": "30°C",
+      "max_spin": "600 rpm",
+      "instruction": "Use a specialized silk detergent. Do not tumble dry."
+    },
+    {
+      "name": "Standard Cotton",
+      "keywords": ["cotton", "linen", "towels", "sheets", "shirts"],
+      "temperature": "40°C or 60°C",
+      "max_spin": "1400 rpm",
+      "instruction": "Suitable for hard-wearing textiles."
+    },
+    {
+      "name": "Quick Mix",
+      "keywords": ["mixed", "daily", "lightly soiled"],
+      "temperature": "40°C",
+      "max_spin": "1200 rpm",
+      "instruction": "Ideal for a mix of cotton and synthetic fabrics."
+    }
+  ]
+}
